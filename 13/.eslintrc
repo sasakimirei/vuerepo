@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "import/no-duplicates": "error",
+    "import/order": ["error", { "newlines-between": "always" }],
+  },
+}
